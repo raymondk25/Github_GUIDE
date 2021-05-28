@@ -32,3 +32,11 @@
 5. git commit -m "type your comment"
 6. git push -u "https://raymondk25@gitwork.ypcloud.com/clouder-18/c18-raymond.git" master
 7. DONE!
+
+### How to create a Branch
+1. git branch
+2. git cheackout -b <new branch>
+3. git add .
+4. git commit -m "type your comment"
+5. git push
+6. git push --set-upstream origin development
