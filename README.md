@@ -24,6 +24,10 @@
 3. Type on your CMD -> git clone "https://github.com/raymondk25/zhuanti.git"
 4. DONE!
 
+### How to add Existing project to a GitHub Repository
+1. rd .git /S/Q
+2. DO git push
+
 ### How to UPDATE your folder to GITHUB
 1. Select your folder
 2. git status to check
