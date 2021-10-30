@@ -34,8 +34,9 @@
 3. git add .
 4. git status check again
 5. git commit -m "type your comment"
-6. git push -u "https://raymondk25@gitwork.ypcloud.com/clouder-18/c18-raymond.git" master
-7. DONE!
+6. git pull https://github.com/username/repository master
+7. git push -u origin master
+8. DONE!
 
 ### How to create a Branch
 1. git branch
